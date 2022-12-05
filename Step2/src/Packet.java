@@ -28,6 +28,6 @@ public class Packet {
         destinationAddress = anAddress;
     }
 
-	// the other methods:
+
 
 }
